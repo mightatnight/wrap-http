@@ -7,7 +7,7 @@ A thin, opinionated wrapper around [imroc/req](https://github.com/imroc/req) tha
 ## Installation
 
 ```bash
-go get github.com/broaskaGit/wrap-http
+go get github.com/mightatnight/wrap-http
 ```
 
 ## Quick start
